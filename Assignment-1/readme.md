@@ -1,5 +1,5 @@
 # Image Processing Projects
-A simple image processing projects using opencv with python
+simple image processing projects using opencv with python
 
 ## How To Install
 Run following command:
