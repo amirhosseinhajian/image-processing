@@ -1,0 +1,5 @@
+opencv-python
+mtcnn
+matplotlib
+Pillow
+tensorflow
