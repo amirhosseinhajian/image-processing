@@ -1,2 +1,2 @@
-# opencv-course
+# image-processing
 Image processing projects using opencv with python
